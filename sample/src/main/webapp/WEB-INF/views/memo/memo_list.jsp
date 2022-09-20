@@ -8,6 +8,7 @@
 <title>Insert title here</title>
 </head>
 <body>
+<h2>메모목록</h2>
 <table border="1" style="width:700px">
 	<tr>
 		<td>No</td>
